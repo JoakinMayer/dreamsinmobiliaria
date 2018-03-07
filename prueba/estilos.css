@@ -1,0 +1,17 @@
+
+#propiedades .fila{
+    overflow: auto;
+    margin-bottom: 20px
+}
+
+#propiedades .fila>div{
+    width: 300px;
+    float: left;
+    border: 1px dashed #cc0066;
+    margin-right: 20px
+}
+#propiedades div img{
+    width: 100%
+}
+
+.oculto{display: none}
